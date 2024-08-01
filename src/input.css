@@ -1,3 +1,11 @@
+
+/* Add the Tailwind directives to your CSS */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.radial-purple {
+    background: radial-gradient(purple, skyblue);
+}

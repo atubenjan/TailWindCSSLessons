@@ -6,8 +6,8 @@ Need to install the following packages:
 Ok to proceed? (y) y
 
 
+Start the Tailwind CLI build process
 
-# creating the complied tailwind style.css
 npx tailwindcss -i ./src/input.css -o ./build/css/style.css
 complling
 npx tailwindcss -i ./src/input.css -o ./build/css/style.css -- watch
